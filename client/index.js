@@ -18,8 +18,7 @@ async function main() {
     "name": name,
     "proof": proof
   });
-
-  console.log("root:" + root);
+  
   console.log({ gift });
 }
 
